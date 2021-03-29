@@ -1,0 +1,5 @@
+B60746 2 A00000 ElectricalEngineeringLab2.pdf 
+A20431 3 B00000 MathsTipovik5.pdf 
+A34358 1 C00000 CheKhongTen.xlsx 
+E51224 3 F00000 HomewordPhysic.pdf 
+I51156 1 F00000 MemorySegment.docx 
